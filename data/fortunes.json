@@ -1,0 +1,25 @@
+[
+    {
+        "id": 1 ,
+        "message" : "you are the captain of your own ship" ,
+        "lucky number" : 7
+    } ,
+
+    {
+        "id": 2 ,
+        "message" : "all things are difficult before they are easy" ,
+        "lucky number" : 3
+    } ,
+
+    {
+        "id": 3 ,
+        "message" : "ignore the previous cookie" ,
+        "lucky number" : 8
+    } , 
+
+    {
+        "id": 4 ,
+        "message" : "go confidently in the directions of your dreams" ,
+        "lucky number" : 11
+    } 
+]
